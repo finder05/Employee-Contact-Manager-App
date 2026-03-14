@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">employeecontactmanagerapp</string>
+    <string-array name="departments">
+    <item>Sales</item>
+    <item>HR</item>
+    <item>Marketing</item>
+    <item>IT</item>
+    <item>Accounts</item>
+   </string-array>
+
+</resources>
